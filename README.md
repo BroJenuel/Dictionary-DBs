@@ -1,2 +1,1 @@
-# English-Dictionary
- English Dictionary
+# This repository contains dictionaries
